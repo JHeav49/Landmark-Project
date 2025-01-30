@@ -1,0 +1,27 @@
+body{
+    background-color: #9ACBD0;
+}
+
+img{
+    height: 200px;
+    width: 50%;
+}
+
+img{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #212121;
+}
+
+li{
+    font-family: cursive;
+}
+
+h1{
+    font-family: cursive;
+}
+
+#fujihours{
+    font-family: cursive;
+}
